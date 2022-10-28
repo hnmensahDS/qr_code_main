@@ -11,9 +11,7 @@ html{
 
 body{
     font-family: 'Outfit', sans-serif;
-    background: var(--color-grayish-blue);
-    width: 100vw;
-    height: 100vh;
+    background: var(--color-light-gray);
 }
 
 p{
@@ -27,7 +25,7 @@ p{
     justify-content: center;
     width: 100vw;
     height: 100vh;
-    background: var(--color-light-gray);
+    
 }
 
 
